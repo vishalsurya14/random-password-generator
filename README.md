@@ -1,1 +1,1 @@
-To see the working project click here: https://random-password-generator-ecru.vercel.app/
+Checkout the project by clicking here: https://random-password-generator-ecru.vercel.app/
